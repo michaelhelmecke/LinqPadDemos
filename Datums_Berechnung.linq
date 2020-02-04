@@ -1,3 +1,7 @@
+<Query Kind="Program">
+  <Namespace>System.Globalization</Namespace>
+</Query>
+
 void Main()
 {
 	
